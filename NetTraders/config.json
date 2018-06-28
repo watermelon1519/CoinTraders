@@ -4,11 +4,11 @@
         "secret":"ROYKE93dipQ6C9LwySapZNeyJTn3zKcJ2UvEqeTJK2xrha5M7L8qG0zEN4kFpj3B"
     },
     "password":"589621g",
-    "verbose": "True",
+    "verbose": "False",
     "symbol":"BTC/USDT",
     "Param":{
-        "MaxNets": 14,
-        "Step": 0.02,
+        "MaxNets": 16,
+        "Step": 0.01,
         "Lot": 0.1
     },
     "LoopInterval":7,
