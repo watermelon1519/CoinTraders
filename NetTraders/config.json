@@ -1,0 +1,17 @@
+{
+    "API": {
+        "apiKey": "446e725f166e40a22e37a4d54f7e8553",
+        "secret":"ROYKE93dipQ6C9LwySapZNeyJTn3zKcJ2UvEqeTJK2xrha5M7L8qG0zEN4kFpj3B"
+    },
+    "password":"589621g",
+    "verbose": "True",
+    "symbol":"BTC/USDT",
+    "Param":{
+        "MaxNets": 20,
+        "Step": 0.02,
+        "Lot": 0.5
+    },
+    "LoopInterval":7,
+    "MinStock":0.01
+}
+
