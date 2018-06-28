@@ -1,9 +1,9 @@
 {
     "API": {
-        "apiKey": "446e725f166e40a22e37a4d54f7e8553",
-        "secret":"ROYKE93dipQ6C9LwySapZNeyJTn3zKcJ2UvEqeTJK2xrha5M7L8qG0zEN4kFpj3B"
+        "apiKey": "x446e725f166e40a22e37a4d54f7e8553",
+        "secret":"FROYKE93dipQ6C9LwySapZNeyJTn3zKcJ2UvEqeTJK2xrha5M7L8qG0zEN4kFpj3B"
     },
-    "password":"589621g",
+    "password":"@@@@@@",
     "verbose": "False",
     "symbol":"BTC/USDT",
     "Param":{
