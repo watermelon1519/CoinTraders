@@ -7,9 +7,9 @@
     "verbose": "True",
     "symbol":"BTC/USDT",
     "Param":{
-        "MaxNets": 20,
+        "MaxNets": 14,
         "Step": 0.02,
-        "Lot": 0.5
+        "Lot": 0.1
     },
     "LoopInterval":7,
     "MinStock":0.01

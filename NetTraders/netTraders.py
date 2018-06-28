@@ -3,7 +3,7 @@
 
 from NetTraders.utils import *
 from NetTraders.type import *
-from NetTraders.GlobalParam import *
+from NetTraders.globalParam import *
 
 
 #网格交易策略
